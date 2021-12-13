@@ -38,16 +38,16 @@
 	background-color: blue;
 	height: 15px;
 	position: relative;
-	bottom: 85px;
+	bottom: 115px;
 }
 .google{
 	position: relative;
-	bottom: 90px;
+	bottom: 125px;
 	font-family: 'Coda Caption', sans-serif;
 }
 .final{
 	position: relative;
-	bottom: 90px;
+	bottom: 125px;
 	font-family: 'YuseiMagic' , sans-serif;
 	font-weight: bolder;
 }
