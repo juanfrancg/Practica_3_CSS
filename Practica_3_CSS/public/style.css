@@ -20,7 +20,7 @@
 	box-sizing: content-box;
 	width: 300px;
 	color: white;
-	background-color: cadetblue;	
+	background-color: cadetblue;
 }
 
 .ancho2{
@@ -42,12 +42,12 @@
 }
 .google{
 	position: relative;
-	bottom: 110px;
+	bottom: 95px;
 	font-family: 'Coda Caption', sans-serif;
 }
 .final{
 	position: relative;
-	bottom: 110px;
+	bottom: 95px;
 	font-family: 'YuseiMagic' , sans-serif;
 	font-weight: bolder;
 }
